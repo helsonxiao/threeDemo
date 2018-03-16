@@ -14,6 +14,8 @@
 ## 如何切换 demo
 在 App.html 修改引入的文件名称，所有 demo 都在 src 文件夹下，如`demo1`， `tree`。
 
+注意：通过本地服务器访问的时候，修改 js 代码不能即时反应出来（有缓存，稍等我配置下）。你可以先直接打开 html 文件来看效果。
+
 ## 参考资料
 https://threejs.org/docs/index.html#manual/introduction/Useful-links
 
